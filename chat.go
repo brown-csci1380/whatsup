@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./client"
-	"./server"
+	"github.com/brown-csci1380/whatsup/client"
+	"github.com/brown-csci1380/whatsup/server"
 
 	"flag"
 	"fmt"

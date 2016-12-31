@@ -1,7 +1,7 @@
 package server
 
 import (
-	"../whatsup"
+	"github.com/brown-csci1380/whatsup/whatsup"
 
 	"fmt"
 	"net"
